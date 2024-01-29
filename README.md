@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/f3330d95cb132871349cba2edfd6cbd0939fbcb880053d1a438d4700e2e4e6fb/68747470733a2f2f7777772e6469676974616c61646c656374696f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
