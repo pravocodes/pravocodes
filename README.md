@@ -1,9 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravocodes&label=Profile%20views&color=0e75b6&style=flat" alt="pravocodes" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pravocodes&label=Profile%20views&color=0e75b6&style=flat" alt="pravocodes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravocodes" alt="pravocodes" /></a> </p>
 
